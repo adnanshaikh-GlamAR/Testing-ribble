@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { appendAssetVersion } from "./asset-version";
 
-const siteUrl = "https://adnanshaikh-glamar.github.io/ribble3Dconfigurator";
+const siteUrl = "https://adnanshaikh-glamar.github.io/Testing-ribble";
 const socialPreviewImage = appendAssetVersion(`${siteUrl}/social/ribble-configurator-preview.png`);
 
 export const metadata: Metadata = {

@@ -3,7 +3,7 @@
 Interactive Fynd GlamAR 3D configurator for the Ribble New Ultra-Road cycle.
 
 Live site:
-https://adnanshaikh-glamar.github.io/ribble3Dconfigurator/
+https://adnanshaikh-glamar.github.io/Testing-ribble/
 
 ## Local Development
 
