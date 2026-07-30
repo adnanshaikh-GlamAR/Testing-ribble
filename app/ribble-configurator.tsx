@@ -1003,7 +1003,7 @@ export default function ConfiguratorClient() {
       <aside className="control-panel" aria-hidden={introPhase === "loading"} aria-label="Ribble cycle configurator">
         <header className="panel-header">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img className="panel-brand-logo" src={publicAsset("ribble-logo-source.png")} alt="Ribble" width={105} height={22} />
+          <img className="panel-brand-logo" src={publicAsset("fynd-brandmark-light.png")} alt="Fynd" width={34} height={34} />
           <span>{modelName}</span>
         </header>
 
