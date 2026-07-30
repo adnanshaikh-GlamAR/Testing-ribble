@@ -449,7 +449,7 @@ const backgroundColorPresets = [
 ];
 const mobileCameraBreakpoint = 900;
 const arVisualizationUrl =
-  "https://cdn.glamar.io/sdk/ar?skuId=0010991&accessKey=6ea59e6d-7599-4a8a-8450-d775500b6536";
+  "https://cdn.glamar.io/sdk/ar?skuId=bdb68e61-3098-4fc5-aee1-f6854af618ce&accessKey=bdc87378-7b2f-46fb-9134-61a3139c24c2";
 
 const defaultConfig: ConfigState = {
   paint: "iridescent-white-metallic",
